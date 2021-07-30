@@ -10,5 +10,10 @@
 		{
 			"path": ".\\services\\service2"
 		}
-	]
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.history": true // Doesn't seem to work???
+		}
+	}
 }
