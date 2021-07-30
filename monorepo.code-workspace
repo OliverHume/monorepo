@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "root"
+		},
+		{
+			"path": ".\\services\\service1"
+		},
+		{
+			"path": ".\\services\\service2"
+		}
+	]
+}
