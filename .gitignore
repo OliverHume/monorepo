@@ -1,4 +1,8 @@
-# package directories
+# local environment
+# VSCode
+.history
+
+# Package directories
 node_modules
 jspm_packages
 
