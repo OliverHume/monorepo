@@ -1,4 +1,5 @@
 {
   "name": "sample",
-  "main": "index.js"
+  "main": "index.js",
+  "version": "0.0.1"
 }
